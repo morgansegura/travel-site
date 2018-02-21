@@ -1,0 +1,26 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "A travel site for all.",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Segura",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-watch": "^5.0.0",
+    "postcss-import": "^11.1.0",
+    "postcss-mixins": "^6.2.0",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "normalize.css": "^4.1.1"
+  }
+}
