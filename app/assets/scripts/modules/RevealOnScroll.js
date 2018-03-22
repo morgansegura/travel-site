@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import waypints from '../../../../node_modules/waypoints/lib/noframework.waypoints';
+import waypoints from '../../../../node_modules/waypoints/lib/noframework.waypoints';
 
 class RevealOnScroll {
 
